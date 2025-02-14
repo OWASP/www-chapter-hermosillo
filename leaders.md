@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Erik Ceballos](mailto:erik.ceballos@owasp.org)
+* [Alan Acosta](mailto:alan.acosta@owasp.org)
