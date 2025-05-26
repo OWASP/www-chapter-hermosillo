@@ -2,6 +2,7 @@
 * Provide Group Information
 
 ### Social Links
-* [Meetup](https://www.meetup.com/owasp-hermosillo-chapter)
+*  [Twitter](https://x.com/owasp_hmo)
+*  [Meetup](https://www.meetup.com/owasp-hermosillo-chapter)
 
 
