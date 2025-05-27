@@ -5,7 +5,7 @@ title: OWASP Hermosillo
 tags: chapter-hmo
 region: North America
 country: Mexico
-meetup-group:
+meetup-group: owasp-hermosillo-chapter
 
 ---
 
