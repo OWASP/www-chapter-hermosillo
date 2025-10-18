@@ -1,0 +1,24 @@
+leaders:
+  - name: Erik Ceballos
+    email: erik.ceballos@owasp.org
+    github: erik-ceballos
+  - name: Alan Acosta
+    email: alan.acosta@owasp.org
+location:
+  country: Mexico
+  country_code: MX
+  region: Sonora
+  city: Hermosillo
+  latitude: 29.0948207
+  longitude: -110.9692202
+meetup_group: owasp-hermosillo-chapter
+name: OWASP Hermosillo
+repositories:
+  - name: www-chapter-hermosillo
+    url: https://github.com/OWASP/www-chapter-hermosillo
+    description: OWASP Foundation web repository
+tags:
+  - chapter-hmo
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-hermosillo
